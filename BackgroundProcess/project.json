@@ -1,7 +1,7 @@
 {
   "name": "BackgroundProcess",
   "projectId": "e42996aa-efb5-45d5-b8cb-e11ba78aa2ec",
-  "description": "220701109",
+  "description": "220701524",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.22.3]",
